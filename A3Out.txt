@@ -1,0 +1,50 @@
+Testing constructor methods
+this is a string
+ another string
+
+
+Testing Append methods
+this is a string another string
+this is a string another string and another
+this is a string another string and another another string
+this is a string another string and another another string!!
+ another string different strings?
+...appending data
+
+Testing charAt method
+ another string
+
+Testing delete method
+we build a string of everything
+we build everything
+build everything
+build
+
+Testing deleteCharAt method
+Xhere is a funney little stringh
+here is a funney little stringh
+here is a funny little stringh
+here is a funny little string
+here is a funny little string
+
+Testing indexOf method
+who was found at 0
+whoing was found at 7
+whoville was found at 22
+whoviller was found at -1
+wacky was found at -1
+
+Testing insert and replace methods
+this is very cool
+Wow, this is very cool
+Wow, this is seriously cool
+Wow, this is seriously challenging
+
+Testing substring method
+assign
+hard
+work
+
+Testing MyStringBuilder2 return types
+Hello there StringBuilder fans!
+Hello there CS0445 fans!!
